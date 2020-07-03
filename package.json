@@ -1,0 +1,41 @@
+{
+  "name": "cup-cli",
+  "version": "1.0.0",
+  "description": "a cli to Create Umi Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cup": "./bin/index.js"
+  },
+  "keywords": [
+    "umi@3",
+    "umi",
+    "frontend",
+    "cli"
+  ],
+  "author": {
+    "name": "zhoufei",
+    "email": "iamyexiu@163.com",
+    "url": "https://github.com/Oligocalse/cup-cli"
+  },
+  "homepage": "https://github.com/Oligocalse/cup-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oligocalse/cup-cli.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "compressing": "^1.5.1",
+    "inquirer": "^7.2.0",
+    "node-ssh": "^10.0.2",
+    "ora": "^4.0.4",
+    "shelljs": "^0.8.4",
+    "archiver": "^3.1.1",
+    "download-git-repo": "^3.0.2",
+    "semver": "^7.1.1"
+  }
+}
