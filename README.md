@@ -1,5 +1,5 @@
 # cup-cli
-一个用于快速生成前端umi@3.2.6项目的脚手架工具，宜完成基础配置，包括路由 & css-to-vw插件 & request封装 & ts配置。
+一个用于快速生成前端umi@3.2.6项目的脚手架工具，已完成基础配置，包括路由 & css-to-vw插件 & request封装 & ts配置。
 
 ## git地址：
 https://github.com/Oligocalse/cup-cli
