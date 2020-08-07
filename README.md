@@ -8,7 +8,7 @@ https://github.com/Oligocalse/cup-cli
 https://www.npmjs.com/package/cup-cli
 
 ## 使用指南
-https://github.com/Oligocalse/cup-cli/master/README.md
+https://github.com/Oligocalse/cup-cli/blob/master/README.md
 
 
 ## 安装

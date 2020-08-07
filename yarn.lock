@@ -345,6 +345,22 @@ crc@^3.4.4:
   dependencies:
     buffer "^5.1.0"
 
+cup-cli@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/cup-cli/-/cup-cli-1.0.2.tgz#c80539d5d6188c05b2ebb55cc34d3683bee35a24"
+  integrity sha512-zi5Z/8MFatk6Yixulc3XPP1HabSoMYBstHUCMjM1LQB4vYaxEr5rXnU+kzjeCGbKCiZokeHTC9LX5uKzQ54owQ==
+  dependencies:
+    archiver "^3.1.1"
+    chalk "^4.1.0"
+    commander "^5.1.0"
+    compressing "^1.5.1"
+    download-git-repo "^3.0.2"
+    inquirer "^7.2.0"
+    node-ssh "^10.0.2"
+    ora "^4.0.4"
+    semver "^7.1.1"
+    shelljs "^0.8.4"
+
 decode-uri-component@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"

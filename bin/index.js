@@ -30,6 +30,11 @@ commander
 const agrs = process.argv.slice(2);
 const projectName = agrs[0];
 
+if (!projectName) {
+  errorLog(`项目名称不可为空！`)
+  return;
+}
+
 // 出现加载图标
 const spinner = ora("Downloading...");
 spinner.start();
